@@ -11,6 +11,7 @@
     <title>$Title$</title>
   </head>
   <body>
+  <%--서아현 push--%>
   </body>
 <script>
   window.location.href = 'main.sep';
