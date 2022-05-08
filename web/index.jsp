@@ -12,6 +12,8 @@
   </head>
   <body>
   <%--서아현 push--%>
+  <%--박유빈 push--%>
+
   </body>
 <script>
   window.location.href = 'main.sep';
