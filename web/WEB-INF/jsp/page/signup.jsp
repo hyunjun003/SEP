@@ -112,7 +112,7 @@
                                 </button>
                             </div>
                             <p class="mt-3 mb-3 text-muted font-14">
-                                Already have an account? <a href="#"> Sign in.</a>
+                                Already have an account? <a href="loginPage.sep"> Sign in.</a>
                             </p>
                         </form>
                     </div>

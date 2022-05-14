@@ -92,11 +92,11 @@
     </div>
 
 
-        <button type="button" id="login_button" >로그인하기</button>
-        <div class="mb-3">
-            <a style="font-size: 20px; color: black; font-family: 'Noto Serif KR', serif;" href="signupPage.sep">회원
-                가입하기</a>
-        </div>
+<%--        <button type="button" id="login_button" >로그인하기</button>--%>
+<%--        <div class="mb-3">--%>
+<%--            <a style="font-size: 20px; color: black; font-family: 'Noto Serif KR', serif;" href="signupPage.sep">회원--%>
+<%--                가입하기</a>--%>
+<%--        </div>--%>
 
 <%--로그인 완료시 error page 대신 이미 로그인되었다는 modal 띄우기--%>
         <%--        class="w-100 btn btn-lg btn-dark" style="font-family: 'Noto Serif KR', serif;"--%>

@@ -33,7 +33,7 @@
                         </p>
                         <div class="carousel-inner">
                             <div class="container">
-                                <p style="font-family: 'Noto Serif KR', serif;"><a class="btn btn-lg btn-dark" href="reservation.sep">예약 하기</a></p>
+                                <p style="font-family: 'Noto Serif KR', serif;"><a class="btn btn-lg btn-dark" href="reservation.sep">예약하기</a></p>
                             </div>
                         </div>
                     </div>
